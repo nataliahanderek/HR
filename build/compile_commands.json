@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/mhand/Desktop/HR/build",
+  "command": "\"C:/Program Files/MinGW/bin/g++.exe\"  @CMakeFiles/test.dir/includes_CXX.rsp -g -o CMakeFiles/test.dir/src/main.cpp.obj -c C:/Users/mhand/Desktop/HR/src/main.cpp",
+  "file": "C:/Users/mhand/Desktop/HR/src/main.cpp"
+},
+{
+  "directory": "C:/Users/mhand/Desktop/HR/build",
+  "command": "\"C:/Program Files/MinGW/bin/g++.exe\"  @CMakeFiles/test.dir/includes_CXX.rsp -g -o CMakeFiles/test.dir/src/hrms.cpp.obj -c C:/Users/mhand/Desktop/HR/src/hrms.cpp",
+  "file": "C:/Users/mhand/Desktop/HR/src/hrms.cpp"
+},
+{
+  "directory": "C:/Users/mhand/Desktop/HR/build",
+  "command": "\"C:/Program Files/MinGW/bin/g++.exe\"  @CMakeFiles/test.dir/includes_CXX.rsp -g -o CMakeFiles/test.dir/src/employee.cpp.obj -c C:/Users/mhand/Desktop/HR/src/employee.cpp",
+  "file": "C:/Users/mhand/Desktop/HR/src/employee.cpp"
+}
+]
